@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+![MapReact](https://user-images.githubusercontent.com/54682156/66505951-9869cb00-ea89-11e9-8896-3f6474113624.png)
+
 ## Available Scripts
 
 In the project directory, you can run:
